@@ -1,7 +1,7 @@
 /**
  * namespace定义积木的选单package
  */
-//% weight=0 color=#3CB371 icon="\uf0ad" block="百度 AI Tools"
+//% weight=0 color=#3CB371 icon="\uf0ad" block="百度大脑"
 namespace baiduAi {
 
     let api_key = ""
