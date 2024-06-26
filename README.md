@@ -1,4 +1,4 @@
-# tools
+# 百度大脑
 
 這是專為測試用的micro:bit積木
 
@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-tools=github:lioujj/pxt-tools
+tools=github:zm47726151/baidu-ai
 ```

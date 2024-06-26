@@ -1,7 +1,7 @@
 {
-    "name": "tools",
-    "version": "0.0.1",
-    "description": "這是專為測試用的micro:bit積木",
+    "name": "百度大脑",
+    "version": "v0.0.1",
+    "description": "这个是基于百度大脑的micro:bit積木",
     "license": "MIT",
     "dependencies": {
         "core": "*"
