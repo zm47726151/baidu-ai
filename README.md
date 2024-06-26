@@ -1,6 +1,6 @@
 # 百度大脑
 
-這是專為測試用的micro:bit積木
+这个是基于百度ai为micro:bit做的makecode插件
 
 ## License
 
