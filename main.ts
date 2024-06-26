@@ -14,9 +14,9 @@ namespace baiduAi {
      * block则定义了积木中要出现的字，以及对应的输入参数名称，参数名称前面要加%，每个参数中间必须要加上|以做为区隔
      * blockExternalInputs=true则定义了二个参数以上的输入，以竖排排的方式排版积木
     */
-    //% blockId="serApiConfig" block="设置Api key %apiKey| api secret %apiSecret"
+    //% blockId="setApiConfig" block="设置Api key %apiKey| api secret %apiSecret"
     //% blockGap=2 weight=0 blockExternalInputs=true
-    export function serApiConfig(apiKey: string, apiSecret:string): void {
+    export function setApiConfig(apiKey: string, apiSecret:string): void {
         api_key = apiKey
         api_secret = apiSecret
     }
